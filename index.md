@@ -39,6 +39,11 @@ Original guide was structured in Google Docs and then published as [pdf][6].
 
 Mainly project is done by me, [Roma Lapin][7] and supported by [Evercode Lab][8].
 
+## Translations
+PHP Study Guide is being translated to the following languages:
+
+[Brazilian Portuguese][12]
+
 ## How to contribute
 
 At first all content was assembled to be used for PHP5.3 ZCE certification. So
@@ -81,3 +86,4 @@ Menus is stored in `_includes/menu`.
 [9]: http://help.github.com/fork-a-repo/
 [10]: http://help.github.com/send-pull-requests/
 [11]: http://jekyllrb.com/docs/usage/
+[12]: https://phpsp.github.io/php-guide-pt_BR
