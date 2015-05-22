@@ -12,9 +12,9 @@ description: ""
 ## Facts
 
 
-* Numeric keys, either auto assigned or assigned by you, great when you don’t care how the data is indexed
-* Associative arrays frequently used with databases, or when there should be some key=>value association
-* Multi-Dimensional arrays, or arrays of arrays can contain a lot of data, but can also be complicated to access
+* Numeric keys, either auto assigned or assigned by you, are great when you don’t care how the data is indexed
+* Associative arrays are frequently used with databases, or when there should be some key=>value association
+* Multi-Dimensional arrays, or arrays of arrays, can contain a lot of data, but can also be complicated to access
 * keys containing only digits are cast to integers
 * array keys are case-sensitive, but type insensitive
 
