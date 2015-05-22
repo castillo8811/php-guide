@@ -21,7 +21,7 @@ Well Formed
 Valid
 
 * Well formed
-* Contain a DTD
+* Contain a DTD (Document Type Definition)
 * Follow that DTD
 
 
@@ -99,7 +99,6 @@ Removing
 * `DomCharacterData::deleteData()`
 
 Import 
-* 
 * `dom_import_simplexml($sxml)`
 * `simplexml_import_dom($dom);`
 
