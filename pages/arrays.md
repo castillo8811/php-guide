@@ -57,10 +57,10 @@ description: ""
 ## Stacks & Queues
 
 
-* Stack, implementing LIFO
+* Stack, implementing LIFO (Last-In, First-Out)
    * `int array_push ( array &$array , mixed $var [, mixed $... ] )`
    * `mixed array_pop ( array &$array )`
-* FIFO
+* FIFO (First-In, First-Out)
    * `int array_unshift ( array &$array , mixed $var [, mixed $... ] )`
    * `mixed array_shift ( array &$array )`
 
