@@ -52,9 +52,11 @@ mixed func_get_arg ( int $arg_num )
 
 ## By reference
 
+[http://php.net/manual/en/language.references.return.php](http://php.net/manual/en/language.references.return.php)
+
 {% highlight php5 linenos %}
 <?php
-&function name() { }
+function &name() { }
 {% endhighlight %}
 
 * allows you to return a variable as the result of the function, instead of a copy
