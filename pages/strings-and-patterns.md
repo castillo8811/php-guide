@@ -143,7 +143,7 @@ uppercase letters).
 * `x` – Allows for commenting
 * `U` – Makes the engine un-greedy
 * `u` – Turns on UTF8 support
-* `e` – Matched with preg_replace() allows you to call
+* `e` – Matched with preg_replace() allows you to call (deprecated in PHP 5.5.0 and removed in PHP 7. Use preg_replace_callback() instead)
 
 * `int preg_match ( string $pattern , string $subject [, array &$matches [, int $flags [, int $offset ]]] )` – Returns the number of matches found by a given search string
 * `int preg_match_all ( string $pattern, string $subject, array &$matches [, int $flags [, int $offset]] )`
