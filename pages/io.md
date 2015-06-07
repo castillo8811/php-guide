@@ -63,7 +63,8 @@ Provide a simple temporary to permanent data store.
 
 * `bool flock ( resource $handle , int $operation [, int &$wouldblock ] )`
    * `LOCK_SH` - place Shared lock
-   * `LOCK_EX` - place Exclusive (write) Lock      * `LOCK_UN` - release lock
+   * `LOCK_EX` - place Exclusive (write) Lock
+   * `LOCK_UN` - release lock
 * Placing and removing locks can inhibit performance as traffic increases
 
 
