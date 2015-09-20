@@ -34,7 +34,7 @@ description: ""
 
 * allow you to increase speed of repeated queries, and isolate data from command
 * First you Prepare the statement, then you bind parameters to it, then you execute it
-* <http://php.net/manual/en/function.mysqliprepare.php>
+* <http://php.net/manual/en/mysqli.prepare.php>
 * Bound parameters
 * The bound-parameter variant allows you to store a query on the MySQL server, with only the iterative data being repeatedly sent to the server, and integrated into the query for execution. 
 * Bound results
